@@ -1,9 +1,9 @@
-#Simple Go Echo Server Terminal#
+# Simple Go Echo Server Terminal #
 
-##How to Setup##
+## How to Setup ##
     go get github.com/gorilla/websocket	
 
-##How to Run##
+## How to Run ##
     go run server.go
 
 then visit [http://localhost:8080](http://localhost:8080)
